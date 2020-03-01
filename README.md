@@ -1,5 +1,7 @@
 # Learning-Robust-3D-Face-Reconstruction-and-Discriminative-Identity-Representation
-This repo holds the pytorch improved version of the paper: [Learning-Robust-3D-Face-Reconstruction-and-Discriminative-Identity-Representation](https://arxiv.org/abs/1905.06505)  
+This repo holds the pytorch improved version of the paper: [Learning-Robust-3D-Face-Reconstruction-and-Discriminative-Identity-Representation](https://arxiv.org/abs/1905.06505)   
+# 3D face Reconstruction  
+![Alt text](https://github.com/Cluoyao/SCNN/blob/master/image/Recon_pic1.png)　　
 # Getting started  
 Requirements  
 . Pytorch >=1.0  
